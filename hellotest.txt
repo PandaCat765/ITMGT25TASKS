@@ -1,2 +1,0 @@
-yo wassup lol testing
-print("hello world")
